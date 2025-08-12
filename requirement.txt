@@ -1,0 +1,10 @@
+# File: requirements.txt
+torch==2.1.0
+torchvision==0.16.0
+accelerate
+transformers==4.38.0
+diffusers==0.26.0
+tensorboard
+python-dotenv
+tqdm
+pillow
